@@ -3,8 +3,8 @@ package conditional;
 public class SwitchConditional {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		int day = 8;
+		
+		int day = 5;
 		String dayName;
 
 		switch (day) {
